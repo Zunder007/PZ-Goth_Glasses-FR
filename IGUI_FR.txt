@@ -1,0 +1,7 @@
+IGUI_FR = {
+
+    UI_ClothingType_wings = "Ailes",
+    UI_ClothingType_horns = "Cornes",
+    UI_ClothingType_cigarette = "Cigarette",
+
+}
