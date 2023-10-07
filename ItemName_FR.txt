@@ -1,0 +1,7 @@
+ItemName_FR = {
+	ItemName_gothHats.Glasses_GothCoffin = "Lunettes de soleil gothiques Cercueil",
+	ItemName_gothHats.Glasses_GothPentagram = "Lunettes de soleil gothiques Pentagramme",
+	ItemName_gothHats.Glasses_GothRazor = "Lunettes de soleil gothiques Rasoir",
+	ItemName_gothHats.Glasses_GothRetro = "Lunettes de soleil gothiques Rétro",
+	ItemName_gothHats.Glasses_GothWings = "Lunettes de soleil gothiques Ailes de chauve-souris",
+}
